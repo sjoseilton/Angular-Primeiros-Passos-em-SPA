@@ -1,0 +1,17 @@
+
+<app-consulta-por-especialidade
+   titulo="Consultas Realizadas - Últimos 30 dias"
+   [consultas]="consultas?.realizadas"
+   [erro]="erro" >  
+   <!-- Safe navegation operator '?' 
+      Ele retorna nulo se durante a consulta acontecer algum problema-->
+</app-consulta-por-especialidade>
+
+<app-consulta-por-especialidade
+   titulo="Consultas Marcadas - Próximos 30 dias"
+   [consultas]="consultas?.marcadas"
+   [erro]="erro" >
+</app-consulta-por-especialidade>
+
+
+

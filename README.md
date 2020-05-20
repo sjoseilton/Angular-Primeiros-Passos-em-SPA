@@ -1,5 +1,5 @@
 # Angular
-O objetivo desta pasta é conter pequenos projetos desenvolvido em Angular.
+O objetivo desta pasta é conter pequenos projetos desenvolvidos em Angular.
 
 # Projetos
 ## Single-Page Application
